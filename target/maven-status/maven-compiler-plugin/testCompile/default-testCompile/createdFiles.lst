@@ -1,0 +1,17 @@
+com/example/tests/BaseTest.class
+com/example/models/SecurityAnswers.class
+com/example/tests/JuiceShopTest.class
+com/example/models/SecurityAnswers$SecurityAnswersBuilder.class
+com/example/mocks/WiremockHelper.class
+com/example/models/SecurityQuestion.class
+com/example/models/SearchResult.class
+com/example/models/LoginResponse$LoginResponseBuilder.class
+com/example/models/LoginBuilder.class
+com/example/models/Customer$CustomerBuilder.class
+com/example/models/Authentication.class
+com/example/models/Customer.class
+com/example/models/LoginResponse.class
+com/example/models/SearchResult$SearchResultBuilder.class
+com/example/models/Authentication$AuthenticationBuilder.class
+com/example/models/SecurityQuestion$SecurityQuestionBuilder.class
+com/example/models/LoginBuilder$LoginBuilderBuilder.class
