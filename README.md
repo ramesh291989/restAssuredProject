@@ -1,2 +1,0 @@
-# restAssuredProject
-restAssuredProject
